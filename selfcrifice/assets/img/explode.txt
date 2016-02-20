@@ -1,0 +1,229 @@
+explode.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_explotion
+  rotate: false
+  xy: 2, 2
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 0
+blood_explotion
+  rotate: false
+  xy: 203, 2
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 1
+blood_explotion
+  rotate: false
+  xy: 404, 2
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 2
+blood_explotion
+  rotate: false
+  xy: 605, 2
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 3
+blood_explotion
+  rotate: false
+  xy: 806, 2
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 4
+blood_explotion
+  rotate: false
+  xy: 2, 203
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 5
+blood_explotion
+  rotate: false
+  xy: 203, 203
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 6
+blood_explotion
+  rotate: false
+  xy: 404, 203
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 7
+blood_explotion
+  rotate: false
+  xy: 605, 203
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 8
+blood_explotion
+  rotate: false
+  xy: 806, 203
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 9
+blood_explotion
+  rotate: false
+  xy: 2, 404
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 10
+blood_explotion
+  rotate: false
+  xy: 203, 404
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 11
+blood_explotion
+  rotate: false
+  xy: 404, 404
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 12
+blood_explotion
+  rotate: false
+  xy: 605, 404
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 13
+blood_explotion
+  rotate: false
+  xy: 806, 404
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 14
+blood_explotion
+  rotate: false
+  xy: 2, 605
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 15
+blood_explotion
+  rotate: false
+  xy: 203, 605
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 16
+blood_explotion
+  rotate: false
+  xy: 404, 605
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 17
+blood_explotion
+  rotate: false
+  xy: 605, 605
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 18
+blood_explotion
+  rotate: false
+  xy: 806, 605
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 19
+blood_explotion
+  rotate: false
+  xy: 2, 806
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 20
+blood_explotion
+  rotate: false
+  xy: 203, 806
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 21
+blood_explotion
+  rotate: false
+  xy: 404, 806
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 22
+blood_explotion
+  rotate: false
+  xy: 605, 806
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 23
+blood_explotion
+  rotate: false
+  xy: 806, 806
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 24
+blood_explotion
+  rotate: false
+  xy: 2, 1007
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 25
+blood_explotion
+  rotate: false
+  xy: 203, 1007
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 26
+blood_explotion
+  rotate: false
+  xy: 404, 1007
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 27
+blood_explotion
+  rotate: false
+  xy: 605, 1007
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 28
+blood_explotion
+  rotate: false
+  xy: 806, 1007
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 29
+blood_explotion
+  rotate: false
+  xy: 2, 1208
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 30
+blood_explotion
+  rotate: false
+  xy: 203, 1208
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: 31

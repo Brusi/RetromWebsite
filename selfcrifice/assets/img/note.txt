@@ -1,0 +1,19 @@
+note.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+endingtext
+  rotate: false
+  xy: 2, 2
+  size: 736, 1037
+  orig: 736, 1037
+  offset: 0, 0
+  index: -1
+endingtext_glow
+  rotate: false
+  xy: 740, 2
+  size: 736, 1037
+  orig: 736, 1037
+  offset: 0, 0
+  index: -1

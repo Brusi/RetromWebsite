@@ -1,0 +1,1216 @@
+basic.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Player_body_back
+  rotate: false
+  xy: 2, 2
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+Player_body_back_walking
+  rotate: false
+  xy: 61, 2
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: 1
+Player_body_back_walking
+  rotate: false
+  xy: 122, 2
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: 2
+Player_body_front
+  rotate: false
+  xy: 183, 2
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+Player_body_front_die
+  rotate: false
+  xy: 242, 2
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Player_body_front_knife
+  rotate: false
+  xy: 300, 2
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+Player_body_front_knife_knifeflare
+  rotate: false
+  xy: 368, 2
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+Player_body_front_walking
+  rotate: false
+  xy: 423, 2
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: 1
+Player_body_front_walking
+  rotate: false
+  xy: 484, 2
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: 2
+Player_body_side
+  rotate: false
+  xy: 545, 2
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+Player_body_side_walking
+  rotate: false
+  xy: 604, 2
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: 1
+Player_body_side_walking
+  rotate: false
+  xy: 645, 2
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: 2
+Player_deadbones
+  rotate: false
+  xy: 686, 2
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: 1
+Player_deadbones
+  rotate: false
+  xy: 703, 2
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: 2
+Player_head_back
+  rotate: false
+  xy: 724, 2
+  size: 126, 89
+  orig: 126, 89
+  offset: 0, 0
+  index: -1
+Player_head_front
+  rotate: false
+  xy: 852, 2
+  size: 126, 89
+  orig: 126, 89
+  offset: 0, 0
+  index: -1
+Player_head_front_die
+  rotate: false
+  xy: 980, 2
+  size: 126, 89
+  orig: 126, 89
+  offset: 0, 0
+  index: -1
+Player_head_levelcomplete
+  rotate: false
+  xy: 1108, 2
+  size: 151, 112
+  orig: 151, 112
+  offset: 0, 0
+  index: 1
+Player_head_levelcomplete
+  rotate: false
+  xy: 1261, 2
+  size: 151, 112
+  orig: 151, 112
+  offset: 0, 0
+  index: 2
+blood
+  rotate: false
+  xy: 1414, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 1
+blood
+  rotate: false
+  xy: 1516, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 2
+blood
+  rotate: false
+  xy: 1618, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 3
+blood
+  rotate: false
+  xy: 1720, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 4
+blood
+  rotate: false
+  xy: 1822, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 5
+blood
+  rotate: false
+  xy: 1924, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 6
+blood
+  rotate: false
+  xy: 2, 116
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 7
+blood_slash
+  rotate: false
+  xy: 104, 116
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: 0
+blood_slash
+  rotate: false
+  xy: 210, 116
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: 1
+blood_slash
+  rotate: false
+  xy: 316, 116
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: 2
+blood_slash
+  rotate: false
+  xy: 422, 116
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: 3
+blood_slash
+  rotate: false
+  xy: 528, 116
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: 4
+blood_slash
+  rotate: false
+  xy: 634, 116
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: 5
+blood_slash
+  rotate: false
+  xy: 740, 116
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: 6
+blood_slash
+  rotate: false
+  xy: 846, 116
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: 7
+blood_slash
+  rotate: false
+  xy: 952, 116
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: 8
+blood_slash
+  rotate: false
+  xy: 1058, 116
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: 9
+blood_small
+  rotate: false
+  xy: 1164, 116
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: 1
+blood_small
+  rotate: false
+  xy: 1191, 116
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: 2
+blood_small
+  rotate: false
+  xy: 1218, 116
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: 3
+blood_small
+  rotate: false
+  xy: 1245, 116
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: 4
+candle_fire
+  rotate: false
+  xy: 1272, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 0
+candle_fire
+  rotate: false
+  xy: 1319, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 1
+candle_fire
+  rotate: false
+  xy: 1366, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 2
+candle_fire
+  rotate: false
+  xy: 1413, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 3
+candle_fire
+  rotate: false
+  xy: 1460, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 4
+candle_fire
+  rotate: false
+  xy: 1507, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 5
+candle_fire
+  rotate: false
+  xy: 1554, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 6
+candle_fire
+  rotate: false
+  xy: 1601, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 7
+candle_fire
+  rotate: false
+  xy: 1648, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 8
+candle_fire
+  rotate: false
+  xy: 1695, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 9
+candle_fire
+  rotate: false
+  xy: 1742, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 10
+candle_fire
+  rotate: false
+  xy: 1789, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 11
+candle_fire
+  rotate: false
+  xy: 1836, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 12
+candle_fire
+  rotate: false
+  xy: 1883, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 13
+candle_fire
+  rotate: false
+  xy: 1930, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 14
+candle_fire
+  rotate: false
+  xy: 1977, 116
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 15
+candle_fire
+  rotate: false
+  xy: 2, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 16
+candle_fire
+  rotate: false
+  xy: 49, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 17
+candle_fire
+  rotate: false
+  xy: 96, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 18
+candle_fire
+  rotate: false
+  xy: 143, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 19
+candle_fire
+  rotate: false
+  xy: 190, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 20
+candle_fire
+  rotate: false
+  xy: 237, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 21
+candle_fire
+  rotate: false
+  xy: 284, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 22
+candle_fire
+  rotate: false
+  xy: 331, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 23
+candle_fire
+  rotate: false
+  xy: 378, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 24
+candle_fire
+  rotate: false
+  xy: 425, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 25
+candle_fire
+  rotate: false
+  xy: 472, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 26
+candle_fire
+  rotate: false
+  xy: 519, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 27
+candle_fire
+  rotate: false
+  xy: 566, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 28
+candle_fire
+  rotate: false
+  xy: 613, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 29
+candle_fire
+  rotate: false
+  xy: 660, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 30
+candle_fire
+  rotate: false
+  xy: 707, 218
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: 31
+enemies_fire
+  rotate: false
+  xy: 754, 218
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 0
+enemies_fire
+  rotate: false
+  xy: 881, 218
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 1
+enemies_fire
+  rotate: false
+  xy: 1008, 218
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 2
+enemies_fire
+  rotate: false
+  xy: 1135, 218
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 3
+enemies_fire
+  rotate: false
+  xy: 1262, 218
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 4
+enemies_fire
+  rotate: false
+  xy: 1389, 218
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 5
+enemies_fire
+  rotate: false
+  xy: 1516, 218
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 6
+enemies_fire
+  rotate: false
+  xy: 1643, 218
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 7
+enemies_fire
+  rotate: false
+  xy: 1770, 218
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 8
+enemies_fire
+  rotate: false
+  xy: 1897, 218
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 9
+enemies_fire
+  rotate: false
+  xy: 2, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 10
+enemies_fire
+  rotate: false
+  xy: 129, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 11
+enemies_fire
+  rotate: false
+  xy: 256, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 12
+enemies_fire
+  rotate: false
+  xy: 383, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 13
+enemies_fire
+  rotate: false
+  xy: 510, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 14
+enemies_fire
+  rotate: false
+  xy: 637, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 15
+enemies_fire
+  rotate: false
+  xy: 764, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 16
+enemies_fire
+  rotate: false
+  xy: 891, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 17
+enemies_fire
+  rotate: false
+  xy: 1018, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 18
+enemies_fire
+  rotate: false
+  xy: 1145, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 19
+enemies_fire
+  rotate: false
+  xy: 1272, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 20
+enemies_fire
+  rotate: false
+  xy: 1399, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 21
+enemies_fire
+  rotate: false
+  xy: 1526, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 22
+enemies_fire
+  rotate: false
+  xy: 1653, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 23
+enemies_fire
+  rotate: false
+  xy: 1780, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 24
+enemies_fire
+  rotate: false
+  xy: 1907, 412
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 25
+enemies_fire
+  rotate: false
+  xy: 2, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 26
+enemies_fire
+  rotate: false
+  xy: 129, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 27
+enemies_fire
+  rotate: false
+  xy: 256, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 28
+enemies_fire
+  rotate: false
+  xy: 383, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 29
+enemies_fire_green
+  rotate: false
+  xy: 510, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 0
+enemies_fire_green
+  rotate: false
+  xy: 637, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 1
+enemies_fire_green
+  rotate: false
+  xy: 764, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 2
+enemies_fire_green
+  rotate: false
+  xy: 891, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 3
+enemies_fire_green
+  rotate: false
+  xy: 1018, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 4
+enemies_fire_green
+  rotate: false
+  xy: 1145, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 5
+enemies_fire_green
+  rotate: false
+  xy: 1272, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 6
+enemies_fire_green
+  rotate: false
+  xy: 1399, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 7
+enemies_fire_green
+  rotate: false
+  xy: 1526, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 8
+enemies_fire_green
+  rotate: false
+  xy: 1653, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 9
+enemies_fire_green
+  rotate: false
+  xy: 1780, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 10
+enemies_fire_green
+  rotate: false
+  xy: 1907, 606
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 11
+enemies_fire_green
+  rotate: false
+  xy: 2, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 12
+enemies_fire_green
+  rotate: false
+  xy: 129, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 13
+enemies_fire_green
+  rotate: false
+  xy: 256, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 14
+enemies_fire_green
+  rotate: false
+  xy: 383, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 15
+enemies_fire_green
+  rotate: false
+  xy: 510, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 16
+enemies_fire_green
+  rotate: false
+  xy: 637, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 17
+enemies_fire_green
+  rotate: false
+  xy: 764, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 18
+enemies_fire_green
+  rotate: false
+  xy: 891, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 19
+enemies_fire_green
+  rotate: false
+  xy: 1018, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 20
+enemies_fire_green
+  rotate: false
+  xy: 1145, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 21
+enemies_fire_green
+  rotate: false
+  xy: 1272, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 22
+enemies_fire_green
+  rotate: false
+  xy: 1399, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 23
+enemies_fire_green
+  rotate: false
+  xy: 1526, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 24
+enemies_fire_green
+  rotate: false
+  xy: 1653, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 25
+enemies_fire_green
+  rotate: false
+  xy: 1780, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 26
+enemies_fire_green
+  rotate: false
+  xy: 1907, 800
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 27
+enemies_fire_green
+  rotate: false
+  xy: 2, 994
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 28
+enemies_fire_green
+  rotate: false
+  xy: 129, 994
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: 29
+enemies_roamer_frame
+  rotate: false
+  xy: 256, 994
+  size: 71, 115
+  orig: 71, 115
+  offset: 0, 0
+  index: 1
+enemies_roamer_frame
+  rotate: false
+  xy: 329, 994
+  size: 71, 115
+  orig: 71, 115
+  offset: 0, 0
+  index: 2
+enemies_stalker_eyesglow
+  rotate: false
+  xy: 402, 994
+  size: 69, 115
+  orig: 69, 115
+  offset: 0, 0
+  index: -1
+enemies_stalker_frame
+  rotate: false
+  xy: 473, 994
+  size: 69, 115
+  orig: 69, 115
+  offset: 0, 0
+  index: 1
+enemies_stalker_frame
+  rotate: false
+  xy: 544, 994
+  size: 69, 115
+  orig: 69, 115
+  offset: 0, 0
+  index: 2
+exitaltar_base
+  rotate: false
+  xy: 615, 994
+  size: 296, 291
+  orig: 296, 291
+  offset: 0, 0
+  index: -1
+exitaltar_base_UX
+  rotate: false
+  xy: 913, 994
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+exitaltar_base_glow
+  rotate: false
+  xy: 1320, 994
+  size: 393, 393
+  orig: 393, 393
+  offset: 0, 0
+  index: -1
+floorhatch_UX
+  rotate: false
+  xy: 1715, 994
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+heart_icon
+  rotate: false
+  xy: 1815, 994
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+hud_healthbar
+  rotate: false
+  xy: 2, 1401
+  size: 295, 111
+  orig: 295, 111
+  offset: 0, 0
+  index: -1
+hud_healthbar_bg
+  rotate: false
+  xy: 299, 1401
+  size: 295, 111
+  orig: 295, 111
+  offset: 0, 0
+  index: -1
+hud_healthbar_color
+  rotate: false
+  xy: 596, 1401
+  size: 263, 22
+  orig: 263, 22
+  offset: 0, 0
+  index: -1
+hud_healthbar_flare
+  rotate: false
+  xy: 861, 1401
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+hud_healthbar_lowhealthglow
+  rotate: false
+  xy: 896, 1401
+  size: 295, 111
+  orig: 295, 111
+  offset: 0, 0
+  index: -1
+hud_stagenumber
+  rotate: false
+  xy: 1193, 1401
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 1
+hud_stagenumber
+  rotate: false
+  xy: 1245, 1401
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 2
+hud_stagenumber
+  rotate: false
+  xy: 1297, 1401
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 3
+hud_stagenumber
+  rotate: false
+  xy: 1349, 1401
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 4
+hud_stagenumber
+  rotate: false
+  xy: 1401, 1401
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 5
+hud_stagenumber
+  rotate: false
+  xy: 1453, 1401
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 6
+hud_stagenumber
+  rotate: false
+  xy: 1505, 1401
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 7
+hud_stagenumber
+  rotate: false
+  xy: 1557, 1401
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 8
+hud_stagenumber
+  rotate: false
+  xy: 1609, 1401
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 9
+hud_stagenumber_final
+  rotate: false
+  xy: 1661, 1401
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+hud_stagenumber_slot
+  rotate: false
+  xy: 1713, 1401
+  size: 97, 75
+  orig: 97, 75
+  offset: 0, 0
+  index: -1
+items_book
+  rotate: false
+  xy: 1812, 1401
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+items_book_glow
+  rotate: false
+  xy: 1866, 1401
+  size: 68, 81
+  orig: 68, 81
+  offset: 0, 0
+  index: -1
+items_candle
+  rotate: false
+  xy: 1936, 1401
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: 1
+items_candle
+  rotate: false
+  xy: 1983, 1401
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: 2
+items_candle_glow
+  rotate: false
+  xy: 2, 1514
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: 1
+items_candle_glow
+  rotate: false
+  xy: 49, 1514
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: 2
+items_candleslot_UX
+  rotate: false
+  xy: 92, 1514
+  size: 40, 89
+  orig: 40, 89
+  offset: 0, 0
+  index: -1
+items_candleslot_empty
+  rotate: false
+  xy: 134, 1514
+  size: 56, 71
+  orig: 56, 71
+  offset: 0, 0
+  index: -1
+items_candleslot_full
+  rotate: false
+  xy: 192, 1514
+  size: 56, 71
+  orig: 56, 71
+  offset: 0, 0
+  index: -1
+items_candleslot_light
+  rotate: false
+  xy: 250, 1514
+  size: 56, 71
+  orig: 56, 71
+  offset: 0, 0
+  index: -1
+items_candleslot_light_glow
+  rotate: false
+  xy: 308, 1514
+  size: 139, 118
+  orig: 139, 118
+  offset: 0, 0
+  index: -1
+items_candleslot_nocandle
+  rotate: false
+  xy: 449, 1514
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+particles_burnpiece
+  rotate: false
+  xy: 508, 1514
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: 1
+particles_burnpiece
+  rotate: false
+  xy: 559, 1514
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: 2
+particles_burnpiece
+  rotate: false
+  xy: 610, 1514
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: 3

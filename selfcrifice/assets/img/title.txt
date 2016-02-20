@@ -1,0 +1,19 @@
+title.png
+size: 2160, 1080
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+splash
+  rotate: false
+  xy: 0, 0
+  size: 1080, 1080
+  orig: 1080, 1080
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1080, 0
+  size: 1080, 1080
+  orig: 1080, 1080
+  offset: 0, 0
+  index: -1

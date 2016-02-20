@@ -1,0 +1,19 @@
+bg.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 1080, 1080
+  orig: 1080, 1080
+  offset: 0, 0
+  index: -1
+items_book_UX
+  rotate: false
+  xy: 1084, 2
+  size: 736, 1037
+  orig: 736, 1037
+  offset: 0, 0
+  index: -1

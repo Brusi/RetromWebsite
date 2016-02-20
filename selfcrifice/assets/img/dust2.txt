@@ -1,0 +1,117 @@
+dust2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+altar_dustwave
+  rotate: false
+  xy: 2, 2
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 16
+altar_dustwave
+  rotate: false
+  xy: 504, 2
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 17
+altar_dustwave
+  rotate: false
+  xy: 1006, 2
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 18
+altar_dustwave
+  rotate: false
+  xy: 1508, 2
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 19
+altar_dustwave
+  rotate: false
+  xy: 2, 482
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 20
+altar_dustwave
+  rotate: false
+  xy: 504, 482
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 21
+altar_dustwave
+  rotate: false
+  xy: 1006, 482
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 22
+altar_dustwave
+  rotate: false
+  xy: 1508, 482
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 23
+altar_dustwave
+  rotate: false
+  xy: 2, 962
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 24
+altar_dustwave
+  rotate: false
+  xy: 504, 962
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 25
+altar_dustwave
+  rotate: false
+  xy: 1006, 962
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 26
+altar_dustwave
+  rotate: false
+  xy: 1508, 962
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 27
+altar_dustwave
+  rotate: false
+  xy: 2, 1442
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 28
+altar_dustwave
+  rotate: false
+  xy: 504, 1442
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 29
+altar_dustwave
+  rotate: false
+  xy: 1006, 1442
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 30
+altar_dustwave
+  rotate: false
+  xy: 1508, 1442
+  size: 500, 478
+  orig: 500, 478
+  offset: 0, 0
+  index: 31
